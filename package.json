@@ -1,0 +1,15 @@
+{
+  "name": "AutomicGroup",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "type": "common.js",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^116.0.0",
+    "config-js": "^1.1.15",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
